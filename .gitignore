@@ -1,0 +1,29 @@
+# Uploaded employee documents
+backend/uploads/*
+
+# Keep the uploads folder itself
+!backend/uploads/.gitkeep
+
+# Database backups
+*.sql
+
+# Environment/config secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local database credentials
+backend/config/database.local.php
