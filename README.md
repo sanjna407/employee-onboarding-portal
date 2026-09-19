@@ -86,3 +86,25 @@ employee-onboarding-portal/
 │
 ├── .gitignore
 └── README.md
+
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home.png)
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Employee Dashboard
+
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Document Management
+
+![Document Management](screenshots/document-management.png)
